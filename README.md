@@ -1,0 +1,1 @@
+# mallify360React
